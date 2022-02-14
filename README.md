@@ -92,3 +92,14 @@ All skills from programmers, non-programmers, designers are welcomed.
 
 ## License
 GNU GPLv3 (See LICENSE file).
+
+
+
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
